@@ -1,5 +1,5 @@
 _repo: The-Right-to-Be-Lazy-and-Other-Studies_52984
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le droit à la paresse. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '35958'
     url: http://www.gutenberg.org/2009/agents/35958
+covers:
+- cover_type: archival
+  image_path: 52984-h/images/cover.jpg
 creator:
   author:
     agent_name: Lafargue, Paul
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47147'
     url: http://www.gutenberg.org/2009/agents/47147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52984#The-Right-to-Be-Lazy-and-Other-Studies
 gutenberg_issued: '2016-09-05'
 gutenberg_type: Text
 identifiers:
